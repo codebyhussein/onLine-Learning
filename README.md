@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+ 
  onLine-courses
-=======
+
 This project is designed to provide a comprehensive platform for users to access a variety of online courses across different subjects. Whether you're looking to enhance your skills, explore new topics, or pursue personal interests, this app offers a user-friendly interface and engaging content to facilitate your learning journey.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
