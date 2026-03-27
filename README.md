@@ -1,16 +1,7 @@
 <<<<<<< HEAD
-# onLine-courses
-This project is designed to provide a comprehensive platform for users to access a variety of online courses across different subjects. Whether you're looking to enhance your skills, explore new topics, or pursue personal interests, this app offers a user-friendly interface and engaging content to facilitate your learning journey.
+ onLine-courses
 =======
-# rokna
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+This project is designed to provide a comprehensive platform for users to access a variety of online courses across different subjects. Whether you're looking to enhance your skills, explore new topics, or pursue personal interests, this app offers a user-friendly interface and engaging content to facilitate your learning journey.
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
